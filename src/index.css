@@ -23,6 +23,14 @@ code {
   transition: 0.5s ease;
 }
 
-.progress:hover{
-  transform: scale(1.1);
+.techpro{
+  text-decoration: none;
+}
+
+.techpro:hover{
+  color: rgb(236, 18, 18);
+}
+
+.text-center  w-50 m-auto{
+  background-image: url(./Images/blur\ codes.jpeg);
 }

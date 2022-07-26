@@ -8,7 +8,7 @@ const Footer = () => {
           <div className='row'>
               <div className='col-12 bg-primary text-white'>
                   <p className='lead text-center pt-3'>
-                      copyright 2022 All Rights Reserved
+                      Ikpantan Faith Chinenye copyright 2022 All Rights Reserved 
                   </p>
               </div>
           </div>
